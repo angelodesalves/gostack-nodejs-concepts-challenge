@@ -7,4 +7,4 @@ Runs the app in the development mode [http://localhost:3333](http://localhost:33
 ### `yarn test`
 Launches the test runner
 
-![Image of test runner](https://raw.githubusercontent.com/angelodesalves/gostack-conceitos-nodejs/master/image.png?token=AAMUQ63HJI43SHRLO6SLPHC6RZW7I)
+![Image of test runner](https://raw.githubusercontent.com/angelodesalves/gostack-conceitos-nodejs/master/image.png?token=AAMUQ62VUSQCJCEY4CNSWK26RZXXE)
